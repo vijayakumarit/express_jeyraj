@@ -1,0 +1,387 @@
+[
+{
+
+    "title":
+    {
+        "title": "Title",
+        "placeholder": "Title",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please select Title"
+    },
+    "first_name":
+    {
+        "title": "First Name",
+        "placeholder": "First Name",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please Enter First Name"
+    },
+    "last_name":
+    {
+        "title": "Last Name",
+        "placeholder": "Last Name",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please Enter Last Name"
+    },
+    "gender":
+    {
+        "title": "Gender",
+        "placeholder": "Gender",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please select Gender"
+    },
+    "email":
+    {
+        "title": "Email",
+        "placeholder": "Email",
+        "isRequired": false,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Email"
+    },
+    "phone":
+    {
+        "title": "Phone",
+        "placeholder": "Phone",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Phonr number"
+    },
+    "alternate_phone":
+    {
+        "title": "Alternative Phone",
+        "placeholder": "Alternative Phone",
+        "isRequired": false,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Alternative Phone"
+    },
+    "blood_group":
+    {
+        "title": "Blood Group",
+        "placeholder": "Blood Group",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please select Blood Group"
+    },
+    "date_of_birth":
+    {
+        "title": "Date Of Birth",
+        "placeholder": "Date Of Birth",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Date of Birth"
+    },
+    "age":
+    {
+        "title": "Age",
+        "placeholder": "Age",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Age"
+    },
+
+    "mother_name":
+    {
+        "title": "MOther name",
+        "placeholder": "MOther Name",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Mother name"
+    },
+
+    "mcts_id":
+    {
+        "error_message": "Please enter mcts_id with alphanumeric",
+        "defaultValue": "",
+        "isDisplay": true,
+        "isRequired": false,
+        "placeholder": "mcts_id",
+        "title": "mcts_id"
+    },
+
+    "medmantra_uhid":
+    {
+        "error_message": "Please enter medmantra_uhid with alphanumeric",
+        "defaultValue": "",
+        "isDisplay": false,
+        "isRequired": false,
+        "placeholder": "medmantra_uhid",
+        "title": "medmantra_uhid"
+    },
+    "relation_type":
+    {
+        "defaultValue": "",
+        "error_message": "PLease Select RelationShip",
+        "isDisplay": true,
+        "isRequired": false,
+        "placeholder": "RelationShip",
+        "title": "RelationShip"
+    },
+    "relation_value":
+    {
+        "defaultValue": "",
+        "error_message": "PLease enter Relative name with alphabets",
+        "isDisplay": true,
+        "isRequired": false,
+        "placeholder": "Relative name",
+        "title": "Relative name"
+    },
+    "religion":
+    {
+        "title": "Religion",
+        "placeholder": "Religion",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "PLease enter Religion"
+    },
+    "caste":
+    {
+        "title": "Caste",
+        "placeholder": "Caste",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please select caste"
+    },
+    "marital_status":
+    {
+        "title": "Marital Status",
+        "placeholder": "Marital Status",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please select Marital Status"
+    },
+    "height":
+    {
+        "title": "Height",
+        "placeholder": "Height",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Height"
+    },
+    "weight":
+    {
+        "title": "Weight",
+        "placeholder": "Weight",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter weight"
+    },
+    "income_group":
+    {
+        "title": "Income Group",
+        "placeholder": "Income Group",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please select Income Group"
+    },
+    "yearly_income":
+    {
+        "title": "Yearly Income",
+        "placeholder": "Yearly Income",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Yearly Income"
+    },
+    "aadhar_number":
+    {
+        "title": "Aadhar Number",
+        "placeholder": "Aadhar Number",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Aadhar number"
+    },
+    "address_proof":
+    {
+        "title": "Address Proof",
+        "placeholder": "Address Proof",
+        "isRequired": false,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Address Proof"
+    },
+    "address_proof_number":
+    {
+        "title": "Address Proof Number",
+        "placeholder": "Address proof Number",
+        "isRequired": false,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Address Proof Number"
+    },
+    "education":
+    {
+        "title": "Education",
+        "placeholder": "Education",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please select Education"
+    },
+    "occupation":
+    {
+        "title": "Occupation",
+        "placeholder": "Occupation",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "",
+        "error_message": "Please enter Occupation"
+    },
+    "citizenship":
+    {
+        "title": "Citizenship",
+        "placeholder": "Citizenship",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": "India",
+        "error_message": "Please enter citizenship"
+    },
+    "present_address": [
+    {
+        "address":
+        {
+            "title": "Address",
+            "placeholder": "Address",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "",
+            "error_message": "Please enter Address"
+        },
+        "pincode":
+        {
+            "title": "Pincode",
+            "placeholder": "Pincode",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "",
+            "error_message": "Please enter Pincode"
+        },
+        "municipality":
+        {
+            "title": "Municiaplity",
+            "placeholder": "Municiaplity",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "",
+            "error_message": "Please enter Municipality"
+        },
+        "city":
+        {
+            "title": "City",
+            "placeholder": "City",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "String",
+            "error_message": "Please enter city"
+        },
+        "state":
+        {
+            "title": "State",
+            "placeholder": "State",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "",
+            "error_message": "Please enter State"
+        },
+        "country":
+        {
+            "title": "Country",
+            "placeholder": "Country",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "India",
+            "error_message": "Please enter Country"
+        }
+    }],
+    "same_as_present_address":
+    {
+        "title": "Same as present Address",
+        "placeholder": "",
+        "isRequired": true,
+        "isDisplay": true,
+        "defaultValue": true,
+        "error_message": ""
+    },
+    "perminant_address": [
+    {
+        "address":
+        {
+            "title": "Address",
+            "placeholder": "Address",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "",
+            "error_message": "Please enter Address"
+        },
+        "pincode":
+        {
+            "title": "Pincode",
+            "placeholder": "Pincode",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "",
+            "error_message": "Please enter Pincode"
+        },
+        "municipality":
+        {
+            "title": "Municiaplity",
+            "placeholder": "Municiaplity",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "",
+            "error_message": "Please enter Municipality"
+        },
+        "city":
+        {
+            "title": "City",
+            "placeholder": "City",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "String",
+            "error_message": "Please enter city"
+        },
+        "state":
+        {
+            "title": "State",
+            "placeholder": "State",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "",
+            "error_message": "Please enter State"
+        },
+        "country":
+        {
+            "title": "Country",
+            "placeholder": "Country",
+            "isRequired": true,
+            "isDisplay": true,
+            "defaultValue": "India",
+            "error_message": "Please enter Country"
+        }
+    }],
+
+
+    "author": "59064c5609ce0f7b8f2591",
+
+    "author_type": "admin"
+}]

@@ -1,0 +1,13 @@
+global.MASTER_LOGS = true;
+global.AUTHENTICATION_LOGS = true;
+global.WEBRTC_LOGS = true;
+global.CAMP_LOGS = true;
+global.CONSULTATION_LOGS = true;
+global.IMMUNIZATIONS_LOGS = true;
+global.LABTECHNICIAN_LOGS = true;
+global.COORDINATOR_LOGS = true;
+global.PHARMACY_LOGS = true;
+global.PATIENT_REGISTRATION_LOGS = true;
+global.CMDASHBOARD_LOGS = true;
+global.SUPERADMIN_LOGS = true;
+global.SCM_LOGS = true;
